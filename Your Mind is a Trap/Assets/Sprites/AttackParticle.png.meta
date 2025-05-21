@@ -1,0 +1,2769 @@
+fileFormatVersion: 2
+guid: c590ce5164d414a41981c3835d0f189d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4123416924498456196
+    second: AttackParticle_0
+  - first:
+      213: -4925262823755048269
+    second: AttackParticle_1
+  - first:
+      213: 5641471388362895167
+    second: AttackParticle_2
+  - first:
+      213: -4218828490886665757
+    second: AttackParticle_3
+  - first:
+      213: -545175159910684943
+    second: AttackParticle_4
+  - first:
+      213: -3710575782287500979
+    second: AttackParticle_5
+  - first:
+      213: 7545655190037085123
+    second: AttackParticle_6
+  - first:
+      213: -3541258394920912927
+    second: AttackParticle_7
+  - first:
+      213: -2828196927636354364
+    second: AttackParticle_8
+  - first:
+      213: -470875612640263277
+    second: AttackParticle_9
+  - first:
+      213: -8189642704149473066
+    second: AttackParticle_10
+  - first:
+      213: 296946879322732207
+    second: AttackParticle_11
+  - first:
+      213: -6917872799078234210
+    second: AttackParticle_12
+  - first:
+      213: -106425715110953732
+    second: AttackParticle_13
+  - first:
+      213: -1358889683972498067
+    second: AttackParticle_14
+  - first:
+      213: -8391588033688505239
+    second: AttackParticle_15
+  - first:
+      213: -985313765416104397
+    second: AttackParticle_16
+  - first:
+      213: 5917365212039469576
+    second: AttackParticle_17
+  - first:
+      213: 7313125444403791000
+    second: AttackParticle_18
+  - first:
+      213: -5559063848457179359
+    second: AttackParticle_19
+  - first:
+      213: -1429579405347364507
+    second: AttackParticle_20
+  - first:
+      213: -1506060144399443320
+    second: AttackParticle_21
+  - first:
+      213: -336916605828058112
+    second: AttackParticle_22
+  - first:
+      213: -5610418686171779232
+    second: AttackParticle_23
+  - first:
+      213: 5076575405150546462
+    second: AttackParticle_24
+  - first:
+      213: -4136924871090979284
+    second: AttackParticle_25
+  - first:
+      213: 7347610562764095879
+    second: AttackParticle_26
+  - first:
+      213: -2030079949514317559
+    second: AttackParticle_27
+  - first:
+      213: 5352795231189067361
+    second: AttackParticle_28
+  - first:
+      213: 3917184019851123714
+    second: AttackParticle_29
+  - first:
+      213: -8404733652164699411
+    second: AttackParticle_30
+  - first:
+      213: -778798441136930698
+    second: AttackParticle_31
+  - first:
+      213: 776159746438073238
+    second: AttackParticle_32
+  - first:
+      213: 8595304824799216292
+    second: AttackParticle_33
+  - first:
+      213: -2055417237446340738
+    second: AttackParticle_34
+  - first:
+      213: 2720580540307811939
+    second: AttackParticle_35
+  - first:
+      213: 1324807012809149341
+    second: AttackParticle_36
+  - first:
+      213: -6633964052725493770
+    second: AttackParticle_37
+  - first:
+      213: -5576557593768368805
+    second: AttackParticle_38
+  - first:
+      213: 5550244106055525484
+    second: AttackParticle_39
+  - first:
+      213: -4280210300612248305
+    second: AttackParticle_40
+  - first:
+      213: 8739579200176577228
+    second: AttackParticle_41
+  - first:
+      213: -93949294524012867
+    second: AttackParticle_42
+  - first:
+      213: -4564464684958330493
+    second: AttackParticle_43
+  - first:
+      213: -4527820214138068497
+    second: AttackParticle_44
+  - first:
+      213: 1978686502538145255
+    second: AttackParticle_45
+  - first:
+      213: 2829640456527281642
+    second: AttackParticle_46
+  - first:
+      213: 5875617965264474199
+    second: AttackParticle_47
+  - first:
+      213: 2104469647313191034
+    second: AttackParticle_48
+  - first:
+      213: -7179971843104283071
+    second: AttackParticle_49
+  - first:
+      213: -6782204183356384226
+    second: AttackParticle_50
+  - first:
+      213: 340753178952629933
+    second: AttackParticle_51
+  - first:
+      213: -8422776852119947185
+    second: AttackParticle_52
+  - first:
+      213: -585110654994125554
+    second: AttackParticle_53
+  - first:
+      213: 4636577241103934919
+    second: AttackParticle_54
+  - first:
+      213: -6507598033457371090
+    second: AttackParticle_55
+  - first:
+      213: -3182704937274750342
+    second: AttackParticle_56
+  - first:
+      213: -6668154381151819624
+    second: AttackParticle_57
+  - first:
+      213: -4925558875490291724
+    second: AttackParticle_58
+  - first:
+      213: -7716547625460014106
+    second: AttackParticle_59
+  - first:
+      213: 8824158209837317172
+    second: AttackParticle_60
+  - first:
+      213: 1346282736188498500
+    second: AttackParticle_61
+  - first:
+      213: -3938992637640658097
+    second: AttackParticle_62
+  - first:
+      213: -139417231715312920
+    second: AttackParticle_63
+  - first:
+      213: 745309935384991937
+    second: AttackParticle_64
+  - first:
+      213: -7154277537834899286
+    second: AttackParticle_65
+  - first:
+      213: -3409277915393391216
+    second: AttackParticle_66
+  - first:
+      213: -4112434070837098455
+    second: AttackParticle_67
+  - first:
+      213: 8925133172260373961
+    second: AttackParticle_68
+  - first:
+      213: -1267185391338142999
+    second: AttackParticle_69
+  - first:
+      213: -6604907208594148516
+    second: AttackParticle_70
+  - first:
+      213: -9086614867147134025
+    second: AttackParticle_71
+  - first:
+      213: -8566243880901064197
+    second: AttackParticle_72
+  - first:
+      213: -8656327222064917449
+    second: AttackParticle_73
+  - first:
+      213: 4159904633734105570
+    second: AttackParticle_74
+  - first:
+      213: 5356693023291084266
+    second: AttackParticle_75
+  - first:
+      213: -8064062355764570265
+    second: AttackParticle_76
+  - first:
+      213: -9114724023901152925
+    second: AttackParticle_77
+  - first:
+      213: -7944670781640180962
+    second: AttackParticle_78
+  - first:
+      213: -4412112266297959822
+    second: AttackParticle_79
+  - first:
+      213: 827534617703462884
+    second: AttackParticle_80
+  - first:
+      213: 7836970637428503034
+    second: AttackParticle_81
+  - first:
+      213: -6732615377061653086
+    second: AttackParticle_82
+  - first:
+      213: 1818980197373794197
+    second: AttackParticle_83
+  - first:
+      213: 408029312031404312
+    second: AttackParticle_84
+  - first:
+      213: -3153449783883816690
+    second: AttackParticle_85
+  - first:
+      213: 7464084602766805767
+    second: AttackParticle_86
+  - first:
+      213: 2654527967213521356
+    second: AttackParticle_87
+  - first:
+      213: 4615232498188775942
+    second: AttackParticle_88
+  - first:
+      213: 4081234249818735652
+    second: AttackParticle_89
+  - first:
+      213: -4042016033678225515
+    second: AttackParticle_90
+  - first:
+      213: -3913140850696126489
+    second: AttackParticle_91
+  - first:
+      213: 4004868471607480273
+    second: AttackParticle_92
+  - first:
+      213: -4757668610920951671
+    second: AttackParticle_93
+  - first:
+      213: -977580260744202297
+    second: AttackParticle_94
+  - first:
+      213: -7099627368807754873
+    second: AttackParticle_95
+  - first:
+      213: 6874735191307959186
+    second: AttackParticle_96
+  - first:
+      213: -8301101232187890638
+    second: AttackParticle_97
+  - first:
+      213: -2952943840211275277
+    second: AttackParticle_98
+  - first:
+      213: -4063123714941963444
+    second: AttackParticle_99
+  - first:
+      213: -174250098116867301
+    second: AttackParticle_100
+  - first:
+      213: -3789496234678255127
+    second: AttackParticle_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AttackParticle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 38
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c719f6a672ea6c6c0800000000000000
+      internalID: -4123416924498456196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 630
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba94a49e83f5abb0800000000000000
+      internalID: -4925262823755048269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 534
+        width: 59
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f66e186588a4e40800000000000000
+      internalID: 5641471388362895167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 592
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9276007d5b375c0800000000000000
+      internalID: -4218828490886665757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 530
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6282d94162f68f0800000000000000
+      internalID: -545175159910684943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 531
+        width: 72
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4916984cf2618cc0800000000000000
+      internalID: -3710575782287500979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 531
+        width: 137
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3ebfaa6d87b860800000000000000
+      internalID: 7545655190037085123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 547
+        width: 35
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e77ed0904ceadec0800000000000000
+      internalID: -3541258394920912927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_8
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 622
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca4265f0e930c8d0800000000000000
+      internalID: -2828196927636354364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 614
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393ce27002d1779f0800000000000000
+      internalID: -470875612640263277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 607
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d81dc5e95b885e80800000000000000
+      internalID: -8189642704149473066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_11
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 531
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6313b0d97fe1400800000000000000
+      internalID: 296946879322732207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 614
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97ca997757ceff90800000000000000
+      internalID: -6917872799078234210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_13
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 532
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc38df3066e58ef0800000000000000
+      internalID: -106425715110953732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_14
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 599
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d50e93801442de0800000000000000
+      internalID: -1358889683972498067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 599
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964f396d4271b8b80800000000000000
+      internalID: -8391588033688505239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 531
+        width: 60
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e021cc9567352f0800000000000000
+      internalID: -985313765416104397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80adddd0f44be1250800000000000000
+      internalID: 5917365212039469576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_18
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 600
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940f8758d07d7560800000000000000
+      internalID: 7313125444403791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 531
+        width: 24
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f6efc02ec3ad2b0800000000000000
+      internalID: -5559063848457179359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 591
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5616e06ea1d192ce0800000000000000
+      internalID: -1429579405347364507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 582
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a92b23746691be0800000000000000
+      internalID: -1506060144399443320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 578
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00430bec128035bf0800000000000000
+      internalID: -336916605828058112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_23
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 578
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f64812ee9c322b0800000000000000
+      internalID: -5610418686171779232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 579
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1aab732f6e937640800000000000000
+      internalID: 5076575405150546462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_25
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 575
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eb4248fb0b696c0800000000000000
+      internalID: -4136924871090979284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_26
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 583
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7814675a0e4f7f560800000000000000
+      internalID: 7347610562764095879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9016e8faa05b3d3e0800000000000000
+      internalID: -2030079949514317559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 567
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166ed6607e2f84a40800000000000000
+      internalID: 5352795231189067361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 564
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1017ac12ac5630800000000000000
+      internalID: 3917184019851123714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 558
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea93f606436c5b80800000000000000
+      internalID: -8404733652164699411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 553
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c76ca1f62135f0800000000000000
+      internalID: -778798441136930698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_32
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 547
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b06675d2975ca00800000000000000
+      internalID: 776159746438073238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_33
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 548
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2cb52c238a84770800000000000000
+      internalID: 8595304824799216292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 67
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fcbc0a9e0b973e0800000000000000
+      internalID: -2055417237446340738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 536
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e23ef469171c520800000000000000
+      internalID: 2720580540307811939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_36
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 532
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b8f6285f8a26210800000000000000
+      internalID: 1324807012809149341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 540
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff0690a7dc6fe3a0800000000000000
+      internalID: -6633964052725493770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 495
+        width: 13
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55ede11a661c92b0800000000000000
+      internalID: -5576557593768368805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_39
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 540
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c642526ab9d660d40800000000000000
+      internalID: 5550244106055525484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_40
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 534
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0df90cb863a994c0800000000000000
+      internalID: -4280210300612248305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_41
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 527
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadae07af8394970800000000000000
+      internalID: 8739579200176577228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 535
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66ff84d9932bef0800000000000000
+      internalID: -93949294524012867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_43
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 532
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3815e377d83c7a0c0800000000000000
+      internalID: -4564464684958330493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_44
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 110
+        width: 585
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1a7713183f921c0800000000000000
+      internalID: -4527820214138068497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 518
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed65a9f3e4b57b10800000000000000
+      internalID: 1978686502538145255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_46
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 527
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedf16dc007e44720800000000000000
+      internalID: 2829640456527281642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 532
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501e77b8636a8150800000000000000
+      internalID: 5875617965264474199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_48
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 527
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70c1b88ef3943d10800000000000000
+      internalID: 2104469647313191034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_49
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 526
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146667a56ad9b5c90800000000000000
+      internalID: -7179971843104283071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 504
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cdfd89a35c0e1a0800000000000000
+      internalID: -6782204183356384226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_51
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 520
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae7e8bf5399ab400800000000000000
+      internalID: 340753178952629933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f10b24194c1b80800000000000000
+      internalID: -8422776852119947185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 438
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d67c695f441e7f0800000000000000
+      internalID: -585110654994125554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 502
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c529a56f6e685040800000000000000
+      internalID: 4636577241103934919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 507
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e282eba311e50b5a0800000000000000
+      internalID: -6507598033457371090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_56
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 431
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4bd4e8b2c4d3d0800000000000000
+      internalID: -3182704937274750342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_57
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 473
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8982bf37be4f573a0800000000000000
+      internalID: -6668154381151819624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_58
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 492
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffe02aac46e4abb0800000000000000
+      internalID: -4925558875490291724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_59
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 501
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3621491d059e490800000000000000
+      internalID: -7716547625460014106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_60
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 431
+        width: 23
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c3333b325b57a70800000000000000
+      internalID: 8824158209837317172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 511
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442a1c10405fea210800000000000000
+      internalID: 1346282736188498500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 471
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43bc84d013e559c0800000000000000
+      internalID: -3938992637640658097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 453
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5a0434c0b01ef0800000000000000
+      internalID: -139417231715312920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_64
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 487
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8113aff6fd75a00800000000000000
+      internalID: 745309935384991937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_65
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 500
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa86bccfb76e6bc90800000000000000
+      internalID: -7154277537834899286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 486
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09584609ccfcfa0d0800000000000000
+      internalID: -3409277915393391216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 486
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9288a8d4003bde6c0800000000000000
+      internalID: -4112434070837098455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 503
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c582a135517cdb70800000000000000
+      internalID: 8925133172260373961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_69
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 405
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2c9b4b99d0a6ee0800000000000000
+      internalID: -1267185391338142999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 386
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53345953e7a654a0800000000000000
+      internalID: -6604907208594148516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 390
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb69e8dbebd5e180800000000000000
+      internalID: -9086614867147134025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_72
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 351
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9478383969e1980800000000000000
+      internalID: -8566243880901064197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 341
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734d645314c8ed780800000000000000
+      internalID: -8656327222064917449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_74
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 351
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e909396933fab930800000000000000
+      internalID: 4159904633734105570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 324
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed04187cebc65a40800000000000000
+      internalID: 5356693023291084266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 329
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679d0e3302b61090800000000000000
+      internalID: -8064062355764570265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_77
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 327
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36917a9cacef18180800000000000000
+      internalID: -9114724023901152925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_78
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b79ea440cdeb190800000000000000
+      internalID: -7944670781640180962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_79
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 319
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a9a2a254705c2c0800000000000000
+      internalID: -4412112266297959822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 295
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7bd8fa95efb7b00800000000000000
+      internalID: 827534617703462884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_81
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 313
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1b71fc54382cc60800000000000000
+      internalID: 7836970637428503034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 308
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a558e84cf1f092a0800000000000000
+      internalID: -6732615377061653086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_83
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 311
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5975fe52ad05e3910800000000000000
+      internalID: 1818980197373794197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_84
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81134995f7c99a500800000000000000
+      internalID: 408029312031404312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a2961122bc34d0800000000000000
+      internalID: -3153449783883816690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_86
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 271
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc0695661c59760800000000000000
+      internalID: 7464084602766805767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 296
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc90a143f17c6d420800000000000000
+      internalID: 2654527967213521356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_88
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 295
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602716a21899c0040800000000000000
+      internalID: 4615232498188775942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248a994de473a830800000000000000
+      internalID: 4081234249818735652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0d2835dfd7e7c0800000000000000
+      internalID: -4042016033678225515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_91
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 247
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efff26012bb1b9c0800000000000000
+      internalID: -3913140850696126489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 261
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df435ef7a6249730800000000000000
+      internalID: 4004868471607480273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_93
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 255
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980d7070b9d59fdb0800000000000000
+      internalID: -4757668610920951671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c778eaaeefee62f0800000000000000
+      internalID: -977580260744202297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_95
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 252
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7839294068e097d90800000000000000
+      internalID: -7099627368807754873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 247
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bb9ca8b37f76f50800000000000000
+      internalID: 6874735191307959186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 191
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23422e219609ccc80800000000000000
+      internalID: -8301101232187890638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_98
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1778209390507d0800000000000000
+      internalID: -2952943840211275277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_99
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 127
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433b643282ec97c0800000000000000
+      internalID: -4063123714941963444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 47
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bcaaf7570f49df0800000000000000
+      internalID: -174250098116867301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AttackParticle_101
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1825e8041096bc0800000000000000
+      internalID: -3789496234678255127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AttackParticle_0: -4123416924498456196
+      AttackParticle_1: -4925262823755048269
+      AttackParticle_10: -8189642704149473066
+      AttackParticle_100: -174250098116867301
+      AttackParticle_101: -3789496234678255127
+      AttackParticle_11: 296946879322732207
+      AttackParticle_12: -6917872799078234210
+      AttackParticle_13: -106425715110953732
+      AttackParticle_14: -1358889683972498067
+      AttackParticle_15: -8391588033688505239
+      AttackParticle_16: -985313765416104397
+      AttackParticle_17: 5917365212039469576
+      AttackParticle_18: 7313125444403791000
+      AttackParticle_19: -5559063848457179359
+      AttackParticle_2: 5641471388362895167
+      AttackParticle_20: -1429579405347364507
+      AttackParticle_21: -1506060144399443320
+      AttackParticle_22: -336916605828058112
+      AttackParticle_23: -5610418686171779232
+      AttackParticle_24: 5076575405150546462
+      AttackParticle_25: -4136924871090979284
+      AttackParticle_26: 7347610562764095879
+      AttackParticle_27: -2030079949514317559
+      AttackParticle_28: 5352795231189067361
+      AttackParticle_29: 3917184019851123714
+      AttackParticle_3: -4218828490886665757
+      AttackParticle_30: -8404733652164699411
+      AttackParticle_31: -778798441136930698
+      AttackParticle_32: 776159746438073238
+      AttackParticle_33: 8595304824799216292
+      AttackParticle_34: -2055417237446340738
+      AttackParticle_35: 2720580540307811939
+      AttackParticle_36: 1324807012809149341
+      AttackParticle_37: -6633964052725493770
+      AttackParticle_38: -5576557593768368805
+      AttackParticle_39: 5550244106055525484
+      AttackParticle_4: -545175159910684943
+      AttackParticle_40: -4280210300612248305
+      AttackParticle_41: 8739579200176577228
+      AttackParticle_42: -93949294524012867
+      AttackParticle_43: -4564464684958330493
+      AttackParticle_44: -4527820214138068497
+      AttackParticle_45: 1978686502538145255
+      AttackParticle_46: 2829640456527281642
+      AttackParticle_47: 5875617965264474199
+      AttackParticle_48: 2104469647313191034
+      AttackParticle_49: -7179971843104283071
+      AttackParticle_5: -3710575782287500979
+      AttackParticle_50: -6782204183356384226
+      AttackParticle_51: 340753178952629933
+      AttackParticle_52: -8422776852119947185
+      AttackParticle_53: -585110654994125554
+      AttackParticle_54: 4636577241103934919
+      AttackParticle_55: -6507598033457371090
+      AttackParticle_56: -3182704937274750342
+      AttackParticle_57: -6668154381151819624
+      AttackParticle_58: -4925558875490291724
+      AttackParticle_59: -7716547625460014106
+      AttackParticle_6: 7545655190037085123
+      AttackParticle_60: 8824158209837317172
+      AttackParticle_61: 1346282736188498500
+      AttackParticle_62: -3938992637640658097
+      AttackParticle_63: -139417231715312920
+      AttackParticle_64: 745309935384991937
+      AttackParticle_65: -7154277537834899286
+      AttackParticle_66: -3409277915393391216
+      AttackParticle_67: -4112434070837098455
+      AttackParticle_68: 8925133172260373961
+      AttackParticle_69: -1267185391338142999
+      AttackParticle_7: -3541258394920912927
+      AttackParticle_70: -6604907208594148516
+      AttackParticle_71: -9086614867147134025
+      AttackParticle_72: -8566243880901064197
+      AttackParticle_73: -8656327222064917449
+      AttackParticle_74: 4159904633734105570
+      AttackParticle_75: 5356693023291084266
+      AttackParticle_76: -8064062355764570265
+      AttackParticle_77: -9114724023901152925
+      AttackParticle_78: -7944670781640180962
+      AttackParticle_79: -4412112266297959822
+      AttackParticle_8: -2828196927636354364
+      AttackParticle_80: 827534617703462884
+      AttackParticle_81: 7836970637428503034
+      AttackParticle_82: -6732615377061653086
+      AttackParticle_83: 1818980197373794197
+      AttackParticle_84: 408029312031404312
+      AttackParticle_85: -3153449783883816690
+      AttackParticle_86: 7464084602766805767
+      AttackParticle_87: 2654527967213521356
+      AttackParticle_88: 4615232498188775942
+      AttackParticle_89: 4081234249818735652
+      AttackParticle_9: -470875612640263277
+      AttackParticle_90: -4042016033678225515
+      AttackParticle_91: -3913140850696126489
+      AttackParticle_92: 4004868471607480273
+      AttackParticle_93: -4757668610920951671
+      AttackParticle_94: -977580260744202297
+      AttackParticle_95: -7099627368807754873
+      AttackParticle_96: 6874735191307959186
+      AttackParticle_97: -8301101232187890638
+      AttackParticle_98: -2952943840211275277
+      AttackParticle_99: -4063123714941963444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
